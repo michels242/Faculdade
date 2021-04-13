@@ -1,2 +1,2 @@
 # Faculdade
- Projetos feitos na faculdade.
+ Projetos em java orientado a objetos feitos na faculdade.
